@@ -7,9 +7,9 @@
 Projeto Integrador como pré-requisito para a conclusão do 1° Semestre do Curso de Desenvolvimento de Software Multiplataforma, da Faculdade de Tecnologia de Indaiatuba.|  elaborado sob orientação da Profª Giovana Fadini de Oliveira.
 
 ## Equipe
-> ANA LÚCIA DA SILVA 
-CELSO COMUNIAM PEREIRA 
-GABRIEL MARTINS SANTANA 
+> ANA LÚCIA DA SILVA \
+CELSO COMUNIAM PEREIRA \
+GABRIEL MARTINS SANTANA \
 THIAGO LIMA DE CARVALHO BASTOS LUIZ
 ---
 ## 😎🔗 Conecte-se com a equipe

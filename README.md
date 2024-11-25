@@ -8,9 +8,9 @@ Projeto Integrador como pré-requisito para a conclusão do 1° Semestre do Curs
 
 ## Equipe
 > ANA LÚCIA DA SILVA 
-CELSO COMUNIAM PEREIRA 
-GABRIEL MARTINS SANTANA 
-THIAGO LIMA DE CARVALHO BASTOS LUIZ
+> CELSO COMUNIAM PEREIRA 
+> GABRIEL MARTINS SANTANA 
+> THIAGO LIMA DE CARVALHO BASTOS LUIZ
 ---
 ## 😎🔗 Conecte-se com a equipe
 

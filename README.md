@@ -17,7 +17,7 @@ THIAGO LIMA DE CARVALHO BASTOS LUIZ
 |Nome|![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=009CE2)|![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=96080E)|
 |:--------|-------|-------|
 |Ana  |  [ver perfil](https://www.linkedin.com/in/) | [gmail](mailto:@gmail.com) |
-|Celso  |  [ver perfil](https://www.linkedin.com/in/) | [gmail](mailto:@gmail.com) |
+|Celso  |  [ver perfil](https://github.com/comuniam/) | [gmail](celsocomu@gmail.com) |
 |Gabriel  | [ver perfil](https://www.linkedin.com/in/) | [gmail](mailto:@gmail.com) |
 |Thiago  |[ver perfil](https://www.linkedin.com/in/thiago-lima-de-carvalho-bastos-luiz-2a0592221?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdXS0dHbMROmBEmzRDpzsAg%3D%3D) | [thibastos@gmail.com](mailto:thibastos@gmail.com) |
 

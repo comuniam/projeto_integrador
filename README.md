@@ -36,10 +36,10 @@ THIAGO LIMA DE CARVALHO BASTOS LUIZ
 Para visitar o site do projeto integrador
 
 ```bash
-  http://www.
+  https://projeto-integrador-pied.vercel.app/
 ```
 
 ## Screenshots
 
-![SiteScreenshot](https://www.google.com.br/468x300?text=Site+Screenshot)
+![SiteScreenshot](https://projeto-integrador-pied.vercel.app/)
 
